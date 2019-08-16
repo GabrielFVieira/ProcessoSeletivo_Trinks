@@ -1,0 +1,15 @@
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\bin\Debug\Questao2_Trinks.exe.config
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\bin\Debug\Questao2_Trinks.exe
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\bin\Debug\Questao2_Trinks.pdb
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\obj\Debug\MainWindow.g.cs
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\obj\Debug\App.g.cs
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\obj\Debug\Questao2_Trinks_MarkupCompile.cache
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\obj\Debug\Questao2_Trinks_MarkupCompile.lref
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\obj\Debug\MainWindow.baml
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\obj\Debug\Questao2_Trinks.g.resources
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\obj\Debug\Questao2_Trinks.Properties.Resources.resources
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\obj\Debug\Questao2_Trinks.csproj.GenerateResource.cache
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\obj\Debug\Questao2_Trinks.csproj.CoreCompileInputs.cache
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\obj\Debug\Questao2_Trinks.exe
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\obj\Debug\Questao2_Trinks.pdb
+D:\Projetos\Questao2_Trinks\Questao2_Trinks\obj\Debug\Questao2_Trinks.csprojAssemblyReference.cache
